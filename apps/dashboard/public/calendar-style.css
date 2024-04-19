@@ -1,0 +1,39 @@
+/* Override the style of Scheduler */
+.doTTXD {
+    position: relative !important;
+    top: -1 !important;
+    left: -1 !important;
+}
+
+.ituqmv {
+    position: relative !important;
+}
+
+.dwtPyh {
+    margin: 5px 8px !important;
+}
+
+.kQeVuN {
+    margin: 5px 8px !important;
+}
+
+.fOgBaC {
+    white-space: wrap !important;
+}
+
+.dxSqfw {
+    white-space: wrap !important;
+}
+
+.fOgBaC:first-child::after {
+    content: none !important;
+    margin: 0px 0px !important;
+}
+
+.jMfbsI {
+    min-height: auto !important;
+}
+
+.fViBKp {
+    min-height: auto !important;
+}
