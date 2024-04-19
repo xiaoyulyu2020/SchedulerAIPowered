@@ -1,0 +1,38 @@
+version: '3.9'
+
+services:
+  backend:
+    container_name: backend
+    build:
+      context: .
+      dockerfile: apps/docker/backend/Dockerfile
+    volumes:
+      - static:/app/backend/static
+
+    ports:
+      - 8000:8000
+
+  frontend:
+    container_name: frontend
+    build:
+      context: .
+      dockerfile: apps/docker/frontend/Dockerfile
+    volumes:
+      - node_modules:/app/frontend/node_modules
+
+    ports:
+      - 3000:3000
+
+  nginx:
+    container_name: nginx
+    build:
+      context: .
+      dockerfile: apps/docker/nginx/Dockerfile
+    volumes:
+      - static:/app/backend/static
+    ports:
+      - 80:80
+
+volumes:
+  static:
+  node_modules:
