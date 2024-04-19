@@ -23,3 +23,6 @@ docker-compose up --build
 “nginx”: The tool that let containers can contact to each other.
 
 You should access page with URL: 127.0.0.1
+
+### Poster
+![Screenshot 2024-04-12 at 14.16.02.png](README/Poster.jpeg)
