@@ -1,0 +1,164 @@
+EmployeeID,Age,Attrition,BusinessTravel,Department,DistanceFromHome,Education,EducationField,Gender,HourlyRate,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PerformanceRating,StandardHours,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Hours,Shift
+1155192,51,No,Travel_Rarely,Care,8,4,Life Sciences,Male,81,3,Other,2,Married,12490,15736,5,Y,No,3,48,16,5,1,10,9,4,7,12,0
+1154770,40,No,Travel_Rarely,Care,12,3,Life Sciences,Female,47,2,Nurse,1,Divorced,4448,10748,2,Y,No,3,48,15,3,3,7,4,7,7,12,1
+1154444,31,No,Travel_Frequently,Care,1,3,Life Sciences,Male,48,2,Other,1,Married,5003,5771,1,Y,No,4,48,10,6,3,10,8,8,7,12,0
+1153402,58,No,Travel_Rarely,Care,23,4,Life Sciences,Male,88,1,Other,3,Divorced,2372,26076,1,Y,No,3,48,2,3,3,2,2,2,2,12,1
+1152978,27,No,Travel_Frequently,Care,5,2,Life Sciences,Female,53,1,Nurse,4,Single,2379,19826,0,Y,No,3,48,6,3,2,5,4,0,2,12,1
+1152723,38,No,Travel_Frequently,Care,10,4,Human Resources,Male,71,2,Other,3,Married,6077,14814,3,Y,No,3,48,10,2,3,6,3,1,2,12,0
+1150538,24,No,Travel_Rarely,Care,1,2,Life Sciences,Male,45,2,Nurse,3,Single,4617,14120,1,Y,No,3,48,4,2,2,4,3,1,2,12,0
+1150067,37,No,Travel_Rarely,Care,10,1,Life Sciences,Female,82,1,Other,1,Divorced,2782,19905,0,Y,No,3,48,6,3,2,5,3,4,3,12,0
+1149718,48,No,Travel_Rarely,Care,1,3,Life Sciences,Male,76,5,Administrative,4,Single,18265,8733,6,Y,No,3,48,25,3,4,1,0,0,0,12,1
+1147768,44,No,Travel_Rarely,Care,8,4,Life Sciences,Male,62,1,Nurse,4,Married,2818,5044,2,Y,No,4,48,10,2,2,3,2,0,2,12,0
+1146326,46,No,Travel_Rarely,Care,13,4,Life Sciences,Male,34,2,Nurse,2,Single,5562,9697,6,Y,No,3,48,19,3,3,10,7,0,9,0,0
+1146021,45,No,Travel_Rarely,Care,6,4,Other,Male,52,3,Other,1,Married,13245,15067,4,Y,No,3,48,17,3,4,0,0,0,0,12,1
+1146009,23,No,Travel_Rarely,Care,10,3,Technical Degree,Male,45,1,Nurse,3,Married,2073,12826,2,Y,No,3,48,4,2,3,2,2,2,2,12,0
+1144941,33,No,Travel_Rarely,Care,25,3,Life Sciences,Male,44,2,Therapist,2,Single,4320,24152,1,Y,No,3,48,5,2,3,5,3,0,2,12,1
+1142961,31,No,Travel_Rarely,Care,12,3,Medical,Female,41,2,Nurse,4,Married,5855,17369,0,Y,No,3,48,10,2,1,9,7,8,5,12,1
+1142212,39,No,Travel_Frequently,Care,22,3,Medical,Female,82,3,Therapist,1,Single,10880,5083,1,Y,No,3,48,21,2,3,21,6,2,8,12,0
+1142160,53,No,Travel_Rarely,Care,5,3,Other,Female,58,5,Other,3,Divorced,19094,10735,4,Y,No,3,48,26,3,2,14,13,4,8,12,0
+1142062,32,Yes,Travel_Frequently,Care,16,1,Life Sciences,Female,72,1,Other,1,Single,3919,4681,1,Y,No,4,48,10,5,3,10,2,6,7,12,1
+1141939,25,No,Travel_Rarely,Care,1,3,Technical Degree,Male,81,1,Nurse,4,Married,3229,4910,4,Y,No,3,48,7,2,2,3,2,0,2,12,1
+1141899,43,No,Travel_Rarely,Care,6,3,Medical,Female,81,5,Administrative,3,Married,19392,22539,7,Y,No,3,48,21,2,3,16,12,6,14,12,0
+1141471,43,No,Travel_Rarely,Care,15,2,Life Sciences,Male,65,4,Therapist,3,Married,17603,3525,1,Y,No,4,48,14,3,3,14,10,6,11,12,1
+1140520,46,No,Travel_Rarely,Care,21,2,Medical,Female,66,2,Nurse,2,Married,8926,10842,4,Y,No,4,48,13,2,4,9,7,3,7,12,1
+1139398,45,No,Travel_Rarely,Care,8,4,Other,Male,75,2,Other,4,Married,3697,9278,9,Y,No,3,48,12,3,3,10,9,9,8,12,1
+1138945,53,No,Travel_Rarely,Care,23,4,Life Sciences,Female,72,4,Therapist,4,Single,14275,20206,6,Y,No,3,48,33,0,3,12,9,3,8,12,0
+1138615,35,No,Travel_Rarely,Care,5,4,Technical Degree,Male,62,3,Therapist,2,Single,8095,18264,0,Y,No,3,48,17,5,3,16,6,0,13,12,0
+1138505,51,No,Travel_Rarely,Care,11,2,Technical Degree,Female,82,4,Therapist,2,Single,13142,24439,3,Y,No,3,48,29,1,2,5,2,0,3,12,0
+1138410,28,No,Travel_Rarely,Care,2,1,Life Sciences,Male,67,1,Other,2,Married,3201,19911,0,Y,No,3,48,6,2,1,5,3,0,4,12,1
+1135463,45,No,Travel_Rarely,Care,5,5,Medical,Female,50,2,Nurse,1,Single,5769,23447,1,Y,No,3,48,10,3,3,10,7,1,4,12,0
+1133458,37,No,Travel_Rarely,Care,1,2,Medical,Female,83,1,Other,1,Married,3920,18697,2,Y,No,3,48,17,2,2,3,1,0,2,12,0
+1132287,35,No,Travel_Frequently,Care,2,3,Medical,Female,37,2,Nurse,2,Single,4425,15986,5,Y,No,3,48,10,5,3,6,2,1,2,12,1
+1131723,31,No,Travel_Frequently,Care,15,3,Medical,Male,72,1,Nurse,3,Married,2610,6233,1,Y,No,3,48,2,5,2,2,2,2,2,12,1
+1130224,34,No,Travel_Rarely,Care,5,3,Medical,Female,45,3,Other,1,Single,11631,5615,2,Y,No,3,48,14,6,3,11,10,5,8,12,0
+1127921,49,No,Travel_Rarely,Care,1,3,Technical Degree,Female,36,1,Other,1,Married,3580,10554,2,Y,No,3,48,7,2,3,4,2,0,2,12,0
+1127107,32,Yes,Travel_Rarely,Care,1,3,Life Sciences,Male,62,1,Nurse,3,Single,3730,9571,0,Y,No,3,48,4,2,1,3,2,1,2,0,1
+1126499,39,Yes,Travel_Rarely,Care,6,3,Medical,Male,70,1,Nurse,1,Married,2404,4303,7,Y,No,4,48,8,2,1,2,2,2,2,12,1
+1126307,56,No,Travel_Rarely,Care,9,3,Medical,Male,81,4,Nurse,4,Married,11103,20420,7,Y,No,3,48,30,1,2,10,7,1,1,12,0
+1126009,44,No,Travel_Rarely,Care,7,4,Medical,Female,42,3,Nurse,4,Married,10248,2094,3,Y,No,3,48,24,4,3,22,6,5,17,12,0
+1125672,36,No,Travel_Rarely,Care,2,3,Life Sciences,Female,96,1,Other,3,Married,2543,11868,4,Y,No,3,48,6,3,3,2,2,2,2,12,1
+1125172,29,No,Travel_Rarely,Care,9,4,Medical,Female,43,1,Nurse,3,Married,2974,25412,9,Y,No,3,48,9,2,3,5,3,1,2,12,0
+1124932,28,No,Travel_Rarely,Care,8,2,Life Sciences,Female,66,1,Other,4,Single,3310,4488,1,Y,No,4,48,5,3,3,5,3,0,2,12,1
+1123429,29,No,Travel_Rarely,Care,19,3,Technical Degree,Male,34,2,Therapist,4,Divorced,4262,22645,4,Y,No,3,48,8,2,4,3,2,1,2,12,1
+1123123,29,No,Travel_Rarely,Care,7,3,Life Sciences,Male,82,2,Other,4,Divorced,6623,4204,1,Y,No,3,48,6,2,3,6,0,1,0,12,1
+1122784,24,No,Non-Travel,Care,4,1,Life Sciences,Male,46,1,Nurse,4,Married,3162,10778,0,Y,No,3,48,6,2,2,5,2,3,4,12,0
+1119549,24,Yes,Travel_Frequently,Care,7,3,Life Sciences,Female,55,1,Nurse,3,Married,2886,14168,1,Y,No,3,48,6,4,3,6,3,1,2,0,0
+1118938,53,No,Travel_Rarely,Care,2,5,Technical Degree,Female,78,3,Therapist,4,Married,10169,14618,0,Y,No,3,48,34,4,3,33,7,1,9,12,1
+1118605,33,No,Travel_Rarely,Care,2,3,Medical,Male,78,1,Nurse,4,Single,2496,6670,4,Y,No,3,48,7,3,3,1,1,0,0,12,0
+1118323,29,Yes,Travel_Rarely,Care,18,1,Medical,Male,86,1,Other,4,Single,2389,14961,1,Y,No,3,48,4,3,2,4,3,0,1,12,1
+1118201,47,No,Travel_Frequently,Care,16,4,Medical,Male,64,2,Therapist,3,Divorced,5067,6759,1,Y,No,3,48,20,3,4,19,10,2,7,12,0
+1117532,44,No,Travel_Rarely,Care,4,3,Medical,Male,50,2,Nurse,2,Single,5933,5197,9,Y,No,3,48,10,2,2,5,2,2,3,0,0
+1116632,33,No,Travel_Rarely,Care,5,3,Life Sciences,Male,34,3,Nurse,4,Divorced,7119,21214,4,Y,No,3,36,9,2,3,3,2,1,2,12,0
+1115350,26,No,Travel_Rarely,Care,7,3,Other,Male,100,1,Nurse,1,Single,3578,23577,0,Y,No,3,36,8,2,3,7,7,0,7,12,1
+1115072,40,No,Non-Travel,Care,9,4,Other,Male,81,2,Nurse,3,Divorced,3975,23099,3,Y,No,3,36,11,2,4,8,7,0,7,12,0
+1113668,32,Yes,Travel_Rarely,Care,9,3,Medical,Female,41,1,Nurse,1,Single,4200,10224,7,Y,No,4,36,10,2,4,5,4,0,4,12,0
+1111156,32,No,Travel_Rarely,Care,7,2,Life Sciences,Male,79,2,Nurse,3,Married,4883,22845,1,Y,No,3,36,10,3,3,10,4,1,1,12,0
+1110876,37,No,Travel_Frequently,Care,10,3,Medical,Male,61,3,Therapist,3,Divorced,10048,22573,6,Y,No,3,36,17,5,3,1,0,0,0,12,1
+1110390,35,No,Travel_Rarely,Care,4,2,Other,Male,75,1,Nurse,4,Divorced,1951,10910,1,Y,No,3,36,1,3,3,1,0,0,0,12,0
+1108233,56,No,Non-Travel,Care,1,4,Life Sciences,Male,57,2,Other,3,Divorced,6306,26236,1,Y,No,4,36,13,2,2,13,12,1,9,12,0
+1107497,22,No,Travel_Frequently,Care,4,1,Technical Degree,Male,99,1,Nurse,3,Single,3894,9129,5,Y,No,3,36,4,3,3,2,2,1,2,12,1
+1107380,34,No,Travel_Rarely,Care,2,4,Medical,Female,86,1,Other,1,Single,4381,7530,1,Y,No,3,36,6,3,3,6,5,1,3,0,0
+1106946,35,No,Travel_Rarely,Care,28,3,Life Sciences,Male,46,2,Nurse,3,Married,3407,25348,1,Y,No,3,36,10,3,2,10,9,6,8,12,0
+1104176,29,No,Travel_Rarely,Care,23,3,Life Sciences,Male,54,1,Nurse,4,Single,2201,18168,9,Y,No,3,36,6,4,3,3,2,1,2,12,0
+1101855,32,No,Travel_Rarely,Care,6,5,Life Sciences,Male,43,1,Other,3,Single,3038,12430,3,Y,No,4,36,8,2,3,5,4,1,4,12,1
+1101291,36,No,Travel_Rarely,Care,27,3,Medical,Male,94,2,Nurse,3,Married,5237,16577,6,Y,No,3,36,17,3,2,7,7,7,7,12,1
+1100849,29,Yes,Travel_Rarely,Care,7,3,Technical Degree,Female,39,1,Nurse,3,Divorced,3339,17285,3,Y,No,3,36,10,2,3,7,7,7,7,12,0
+1100306,54,No,Travel_Rarely,Care,17,3,Technical Degree,Female,56,3,Therapist,3,Married,10739,13943,8,Y,No,3,36,22,2,3,10,7,0,8,12,0
+1100187,30,No,Travel_Frequently,Care,1,2,Medical,Female,58,2,Nurse,4,Single,4011,10781,1,Y,No,4,36,12,2,3,12,8,3,7,12,1
+1098841,34,No,Travel_Frequently,Care,1,3,Medical,Male,97,2,Nurse,1,Single,5343,25755,0,Y,No,4,36,14,3,3,13,9,4,9,12,0
+1097742,36,No,Travel_Rarely,Care,26,4,Life Sciences,Male,80,2,Nurse,3,Married,5347,7419,6,Y,No,3,24,10,2,2,3,2,0,2,12,0
+1095688,34,No,Travel_Rarely,Care,2,4,Life Sciences,Male,62,1,Other,3,Divorced,2768,8416,3,Y,No,3,24,14,3,3,7,3,5,7,12,0
+1091520,40,No,Travel_Rarely,Care,14,3,Medical,Male,44,5,Administrative,3,Single,19626,17544,1,Y,No,3,24,21,2,4,20,7,4,9,12,0
+1088912,36,No,Travel_Rarely,Care,5,4,Life Sciences,Female,42,3,Nurse,1,Married,8008,22792,4,Y,No,3,24,9,6,3,3,2,0,2,12,1
+1088304,20,Yes,Travel_Frequently,Care,6,3,Life Sciences,Female,66,1,Nurse,4,Single,2926,19783,1,Y,No,3,24,1,5,3,1,0,1,0,12,1
+1087213,25,No,Non-Travel,Care,5,2,Life Sciences,Male,85,2,Nurse,1,Divorced,4000,18384,1,Y,No,3,24,6,2,3,6,3,1,5,12,0
+1085614,42,No,Travel_Frequently,Care,29,2,Life Sciences,Female,92,2,Other,3,Divorced,4556,12932,2,Y,No,3,24,19,3,3,5,4,0,2,0,0
+1085062,35,No,Travel_Rarely,Care,23,2,Life Sciences,Male,50,2,Therapist,3,Married,5916,15497,3,Y,No,3,24,8,1,3,1,0,0,1,12,1
+1084924,43,No,Travel_Rarely,Care,6,3,Medical,Female,73,2,Other,3,Single,4081,20003,1,Y,No,3,24,20,3,1,20,7,1,8,12,1
+1082389,23,Yes,Travel_Rarely,Care,8,1,Medical,Male,93,1,Nurse,3,Single,3989,20586,1,Y,No,3,24,5,2,3,5,4,1,2,12,1
+1082176,26,Yes,Travel_Frequently,Care,5,2,Medical,Female,88,1,Other,3,Married,2366,20898,1,Y,No,3,24,8,2,3,8,7,1,7,12,0
+1081412,57,No,Travel_Rarely,Care,1,2,Life Sciences,Male,93,2,Other,3,Married,4900,2721,0,Y,No,4,24,13,2,2,12,9,2,8,12,1
+1080660,34,No,Travel_Rarely,Care,19,2,Medical,Male,93,1,Nurse,4,Divorced,2661,8758,0,Y,No,3,24,3,2,3,2,2,1,2,12,1
+1079832,30,No,Travel_Rarely,Care,8,2,Life Sciences,Female,73,3,Administrative,1,Married,11416,17802,0,Y,No,3,24,9,4,2,8,7,1,7,0,0
+1079394,50,No,Travel_Frequently,Care,3,3,Medical,Male,99,5,Administrative,2,Married,18200,7999,1,Y,No,3,24,32,2,3,32,5,10,7,12,1
+1078791,35,No,Travel_Rarely,Care,9,4,Life Sciences,Male,97,2,Nurse,2,Single,6540,19394,9,Y,No,3,24,10,5,3,1,1,0,0,12,0
+1078051,24,No,Travel_Rarely,Care,29,1,Medical,Male,91,1,Nurse,1,Divorced,3907,3622,1,Y,No,3,24,6,2,4,6,2,1,2,12,0
+1077558,50,No,Travel_Frequently,Care,1,3,Life Sciences,Female,73,5,Other,2,Married,18172,9755,3,Y,No,3,24,28,1,2,8,3,0,7,12,0
+1077496,30,No,Travel_Frequently,Care,5,4,Life Sciences,Male,75,1,Other,4,Divorced,3761,2373,9,Y,No,3,24,10,3,2,5,4,0,3,12,0
+1153641,36,No,Travel_Rarely,Nursing,17,2,Marketing,Male,33,2,Nurse,2,Married,5507,16822,2,Y,No,3,48,12,1,1,4,2,1,3,12,1
+1152504,33,No,Travel_Rarely,Nursing,8,4,Life Sciences,Male,46,2,Nurse,1,Married,6392,10589,2,Y,No,3,48,8,6,1,2,2,2,2,12,0
+1152345,26,Yes,Travel_Rarely,Nursing,8,3,Technical Degree,Male,38,2,Nurse,1,Single,5326,3064,6,Y,No,3,48,6,2,2,4,3,1,2,12,1
+1152329,27,No,Travel_Rarely,Nursing,2,2,Medical,Female,89,2,Nurse,3,Single,6500,26997,0,Y,No,3,48,9,5,2,8,7,0,7,12,1
+1152327,46,No,Travel_Rarely,Nursing,10,3,Marketing,Female,94,3,Nurse,4,Married,9071,11563,2,Y,No,3,48,15,3,3,3,2,1,2,12,1
+1151756,25,No,Travel_Rarely,Nursing,8,3,Life Sciences,Male,57,2,Nurse,2,Married,4851,15678,0,Y,No,4,48,4,4,3,3,2,1,2,12,1
+1150498,50,No,Travel_Frequently,Nursing,1,4,Other,Male,81,2,Nurse,3,Single,4728,17251,3,Y,No,3,48,5,4,3,0,0,0,0,12,1
+1148181,33,No,Travel_Frequently,Nursing,25,3,Medical,Female,82,2,Nurse,3,Married,4539,4905,1,Y,No,3,48,10,3,2,10,7,0,1,12,1
+1148129,41,No,Travel_Rarely,Nursing,9,1,Life Sciences,Male,96,3,Nurse,3,Divorced,8189,21196,3,Y,No,3,48,12,2,3,9,7,0,7,12,0
+1147261,21,No,Travel_Rarely,Nursing,22,1,Technical Degree,Male,49,1,Other,3,Single,3447,24444,1,Y,No,3,48,3,2,3,3,2,1,2,12,0
+1146606,26,Yes,Travel_Rarely,Nursing,23,3,Marketing,Female,47,2,Nurse,4,Married,4157,21436,7,Y,No,3,48,5,2,2,2,2,0,0,12,0
+1143717,34,No,Travel_Rarely,Nursing,3,2,Life Sciences,Female,32,2,Nurse,4,Single,6029,25353,5,Y,No,3,48,6,3,3,2,2,2,2,12,0
+1143606,48,No,Travel_Rarely,Nursing,2,1,Marketing,Male,56,2,Therapist,2,Married,8120,18597,3,Y,No,3,48,12,3,3,2,2,2,2,12,0
+1140608,33,Yes,Travel_Rarely,Nursing,9,4,Marketing,Female,77,2,Nurse,1,Single,8224,18385,0,Y,No,3,48,6,3,3,5,2,0,3,12,0
+1138977,30,No,Travel_Rarely,Nursing,5,3,Life Sciences,Female,41,3,Nurse,4,Married,9419,8053,2,Y,No,3,48,12,2,3,10,9,7,4,12,1
+1138891,18,Yes,Travel_Frequently,Nursing,5,3,Marketing,Male,69,1,Other,2,Single,1878,8059,1,Y,No,3,48,0,3,3,0,0,0,0,12,1
+1137940,46,No,Travel_Rarely,Nursing,3,3,Technical Degree,Female,45,4,Nurse,1,Divorced,13225,7739,2,Y,No,3,48,25,5,3,19,17,2,8,12,1
+1136352,25,No,Travel_Rarely,Nursing,8,3,Life Sciences,Male,57,2,Nurse,2,Married,4851,15678,0,Y,No,4,48,4,4,3,3,2,1,2,12,0
+1134060,55,No,Travel_Rarely,Nursing,1,2,Life Sciences,Male,70,3,Nurse,4,Married,10239,18092,3,Y,No,3,48,24,4,3,1,0,1,0,12,0
+1133211,28,No,Travel_Rarely,Nursing,3,3,Medical,Female,93,3,Therapist,2,Divorced,7655,8039,0,Y,No,3,48,10,3,2,9,7,1,7,12,1
+1130703,38,No,Travel_Rarely,Nursing,1,3,Life Sciences,Male,59,1,Other,1,Single,2858,11473,4,Y,No,3,48,20,3,2,1,0,0,0,12,1
+1130650,34,No,Travel_Rarely,Nursing,1,3,Technical Degree,Male,64,3,Nurse,3,Married,7083,12288,1,Y,No,3,48,10,3,3,10,9,8,6,12,1
+1129392,29,No,Travel_Frequently,Nursing,1,1,Medical,Female,42,3,Nurse,4,Married,7918,6599,1,Y,No,3,48,11,5,3,11,10,4,1,12,0
+1128374,59,No,Travel_Rarely,Nursing,6,2,Medical,Male,52,1,Other,3,Married,2267,25657,8,Y,No,3,48,7,2,2,2,2,2,2,12,1
+1128254,43,No,Travel_Rarely,Nursing,25,3,Medical,Male,79,3,Nurse,4,Divorced,10798,5268,5,Y,No,3,48,18,5,3,1,0,0,0,12,0
+1127416,44,No,Travel_Rarely,Nursing,1,5,Marketing,Female,75,2,Nurse,1,Divorced,5454,4009,5,Y,No,4,48,9,2,2,4,3,1,3,12,0
+1126582,38,No,Travel_Frequently,Nursing,1,4,Other,Male,88,1,Other,2,Married,2991,5224,0,Y,No,3,48,7,2,3,6,2,1,2,0,1
+1126413,46,No,Travel_Rarely,Nursing,2,4,Technical Degree,Male,60,2,Therapist,4,Divorced,7379,17433,2,Y,No,3,48,12,3,2,6,3,1,4,0,0
+1126243,46,No,Travel_Frequently,Nursing,5,4,Marketing,Male,98,2,Nurse,4,Single,5772,20445,4,Y,No,4,48,14,4,3,9,6,0,8,12,0
+1125914,42,No,Travel_Rarely,Nursing,18,4,Life Sciences,Male,35,2,Other,1,Divorced,5410,11189,6,Y,No,3,48,9,3,2,4,3,1,2,12,0
+1124764,55,No,Travel_Rarely,Nursing,1,3,Medical,Male,81,5,Other,1,Single,19045,18938,0,Y,No,3,48,37,2,3,36,10,4,13,12,1
+1123335,46,No,Travel_Rarely,Nursing,2,3,Marketing,Female,69,4,Administrative,1,Married,17048,24097,8,Y,No,4,48,28,2,3,26,15,15,9,12,1
+1122798,56,No,Travel_Rarely,Nursing,7,3,Life Sciences,Male,49,3,Therapist,4,Single,7260,21698,4,Y,No,3,48,37,3,2,6,4,0,2,12,1
+1121812,35,No,Travel_Frequently,Nursing,11,2,Marketing,Male,54,2,Nurse,4,Divorced,4968,18500,1,Y,No,3,48,5,3,3,5,2,0,2,12,0
+1121259,39,No,Travel_Rarely,Nursing,3,3,Human Resources,Female,44,2,Other,2,Married,6389,18767,9,Y,No,3,48,12,3,1,8,3,3,6,12,1
+1121223,55,No,Travel_Rarely,Nursing,2,3,Life Sciences,Female,97,4,Other,4,Single,16659,23258,2,Y,No,3,48,30,2,3,5,4,1,2,12,1
+1120429,48,No,Travel_Rarely,Nursing,16,4,Life Sciences,Female,96,2,Nurse,3,Divorced,6439,13693,8,Y,No,3,48,18,2,3,8,7,7,7,12,0
+1119867,20,No,Travel_Rarely,Nursing,9,1,Life Sciences,Male,54,1,Other,1,Single,2728,21082,1,Y,No,3,48,2,3,3,2,2,0,2,12,1
+1119237,32,No,Travel_Rarely,Nursing,13,4,Life Sciences,Male,73,2,Nurse,4,Divorced,4403,9250,2,Y,No,3,48,8,3,2,5,2,0,3,12,1
+1117656,26,Yes,Travel_Rarely,Nursing,24,3,Technical Degree,Male,66,1,Nurse,4,Single,2340,23213,1,Y,No,3,48,1,3,1,1,0,0,0,12,0
+1117655,54,No,Travel_Rarely,Nursing,3,3,Life Sciences,Male,85,4,Therapist,4,Married,17779,23474,3,Y,No,3,48,36,2,3,10,9,0,9,12,1
+1117560,43,No,Non-Travel,Nursing,9,3,Life Sciences,Male,52,1,Other,3,Single,2438,24978,4,Y,No,3,36,7,2,2,3,2,1,2,0,1
+1117151,25,Yes,Travel_Rarely,Nursing,19,2,Marketing,Male,36,1,Other,2,Married,2413,18798,1,Y,No,3,36,1,2,3,1,0,0,0,12,0
+1115854,19,Yes,Travel_Rarely,Nursing,21,3,Other,Male,37,1,Other,2,Single,2121,9947,1,Y,No,3,36,1,3,4,1,0,0,0,12,0
+1114030,37,Yes,Non-Travel,Nursing,19,2,Medical,Male,32,3,Nurse,2,Single,7642,4814,1,Y,No,3,36,10,2,3,10,0,0,9,12,1
+1113801,40,No,Travel_Frequently,Nursing,11,3,Technical Degree,Female,73,2,Nurse,3,Married,6323,26849,1,Y,No,3,36,10,2,4,10,9,9,4,12,0
+1113271,43,No,Travel_Frequently,Nursing,2,4,Life Sciences,Male,92,2,Nurse,4,Married,5675,19246,1,Y,No,4,36,7,5,3,7,7,7,7,12,0
+1112703,42,No,Travel_Rarely,Nursing,10,3,Human Resources,Female,31,4,Administrative,1,Married,16799,16616,0,Y,No,3,36,21,5,3,20,7,0,9,12,0
+1110329,54,No,Travel_Rarely,Nursing,5,2,Medical,Male,86,5,Therapist,1,Married,19406,8509,4,Y,No,3,36,24,4,2,4,2,1,2,12,0
+1109596,31,No,Travel_Frequently,Nursing,1,1,Life Sciences,Female,96,2,Therapist,1,Married,4148,11275,1,Y,No,3,36,4,1,3,4,3,0,3,12,1
+1108108,29,No,Travel_Frequently,Nursing,20,1,Medical,Male,40,1,Nurse,4,Married,3812,7003,1,Y,No,3,36,11,3,4,11,8,3,10,12,1
+1107055,35,Yes,Travel_Rarely,Nursing,15,2,Medical,Male,59,2,Nurse,4,Divorced,5440,22098,6,Y,No,3,36,7,2,2,2,2,2,2,12,1
+1105684,37,No,Travel_Rarely,Nursing,1,4,Life Sciences,Female,65,2,Therapist,2,Married,6447,15701,6,Y,No,3,36,8,2,2,6,5,4,3,0,1
+1104512,39,No,Non-Travel,Nursing,9,3,Life Sciences,Male,87,5,Administrative,4,Single,19431,15302,2,Y,No,3,36,21,3,2,6,0,1,3,12,0
+1104040,34,No,Travel_Rarely,Nursing,4,3,Life Sciences,Male,64,3,Nurse,4,Married,9713,24444,2,Y,No,3,36,9,3,3,5,3,1,0,12,1
+1101293,44,No,Non-Travel,Nursing,24,3,Medical,Male,49,1,Nurse,3,Single,3708,2104,2,Y,No,3,36,9,5,3,5,2,1,4,12,0
+1099592,42,No,Travel_Frequently,Nursing,26,3,Marketing,Female,77,4,Nurse,2,Married,13525,14864,5,Y,No,3,36,23,2,4,20,4,4,8,12,0
+1096432,48,No,Travel_Rarely,Nursing,2,5,Marketing,Female,37,2,Nurse,4,Married,4051,19658,2,Y,No,3,36,14,2,3,9,7,6,7,12,0
+1093589,30,No,Travel_Rarely,Nursing,1,3,Life Sciences,Male,64,2,Nurse,1,Married,9714,5323,1,Y,No,3,36,10,4,3,10,8,6,7,12,0
+1092771,27,No,Travel_Rarely,Nursing,9,3,Marketing,Male,44,2,Nurse,4,Single,4105,5099,1,Y,No,3,36,7,5,3,7,7,0,7,12,0
+1090887,32,No,Travel_Frequently,Nursing,2,2,Life Sciences,Male,79,1,Nurse,4,Single,3068,11864,0,Y,No,3,24,8,2,2,7,7,3,6,12,1
+1090528,31,No,Travel_Rarely,Nursing,13,4,Medical,Male,46,2,Nurse,1,Divorced,4233,11512,2,Y,No,3,24,9,2,1,3,1,1,2,12,0
+1089994,32,No,Non-Travel,Nursing,2,1,Life Sciences,Female,76,1,Other,1,Divorced,2827,14947,1,Y,No,3,24,1,3,3,1,0,0,0,12,1
+1088447,54,No,Travel_Rarely,Nursing,3,3,Marketing,Female,52,2,Nurse,1,Married,5940,17011,2,Y,No,3,24,16,4,3,6,2,0,5,0,1
+1087770,45,No,Travel_Rarely,Nursing,9,3,Marketing,Male,74,3,Nurse,1,Divorced,10761,19239,4,Y,No,3,24,18,2,3,5,4,0,2,12,1
+1087619,40,No,Travel_Rarely,Nursing,26,3,Marketing,Male,74,2,Nurse,1,Married,8396,22217,1,Y,No,3,24,8,3,2,7,7,7,5,12,1
+1086016,18,Yes,Non-Travel,Nursing,14,3,Medical,Female,33,1,Other,3,Single,1514,8018,1,Y,No,3,24,0,4,1,0,0,0,0,12,1
+1085909,36,No,Travel_Frequently,Nursing,23,2,Medical,Male,41,2,Nurse,4,Married,2571,12290,4,Y,No,3,24,17,3,3,5,2,0,3,12,0
+1085450,26,No,Travel_Rarely,Nursing,25,1,Life Sciences,Female,61,1,Other,3,Married,2942,8916,1,Y,No,4,24,8,3,3,8,7,5,7,12,0
+1084927,32,No,Travel_Rarely,Nursing,1,4,Marketing,Female,48,3,Nurse,4,Married,10422,24032,1,Y,No,3,24,14,3,3,14,10,5,7,12,0
+1084699,20,Yes,Travel_Frequently,Nursing,9,3,Marketing,Female,54,1,Other,4,Single,2323,17205,1,Y,No,3,24,2,3,3,2,2,0,2,12,0
+1083173,35,No,Non-Travel,Nursing,2,2,Medical,Male,90,2,Therapist,4,Divorced,5762,24442,2,Y,No,3,24,15,6,3,7,7,1,7,12,0
+1081842,35,No,Travel_Rarely,Nursing,1,4,Marketing,Male,32,2,Nurse,1,Single,4312,23016,0,Y,No,3,24,16,2,3,15,13,2,8,12,1
+1081600,55,Yes,Travel_Rarely,Nursing,13,4,Marketing,Male,85,4,Nurse,3,Single,13695,9277,6,Y,No,3,24,24,2,2,19,7,3,8,12,0
+1081187,33,No,Travel_Rarely,Nursing,10,5,Marketing,Male,82,3,Nurse,3,Divorced,8380,21708,0,Y,No,3,24,10,3,3,9,8,0,8,12,0
+1080875,45,Yes,Travel_Frequently,Nursing,26,4,Life Sciences,Female,100,2,Nurse,1,Married,4286,5630,2,Y,No,3,24,5,4,3,1,1,0,0,12,1
+1079566,26,No,Travel_Rarely,Nursing,1,3,Medical,Male,95,1,Nurse,1,Single,2867,20006,0,Y,No,3,24,8,6,2,7,7,7,6,12,0

@@ -1,0 +1,59 @@
+# .gitignore for Django Projects
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# IDE/Text Editor
+.idea/
+.vscode/
+
+# Database
+*.sqlite3
+
+# Static files
+/staticfiles/
+
+# Media files
+/media/
+
+# Ignore local settings
+local_settings.py
+# Ignore logs
+*.log
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore configuration files for common version control tools
+/.git
+/.hg
+/.svn
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore system files from Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+../../.DS_Store
+../.DS_Store
+app_backend/group/
+app_backend/apps/migrations/
+../datahandler/datahandler/.clj-kondo/
+datahandler/.clj-kondo/
+../.clj-kondo/
+../.lsp/
+.clj-kondo/
+.lsp/
+./apps/migrations/
+../dashboard/.next/
+.next/
